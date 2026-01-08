@@ -33,6 +33,7 @@ The tool scans the Vector DB for trending "hooks" and suggests content pillars t
 - [ ] Phase 2: Integration with user-specific historical metrics.
 - [ ] Phase 3: Goal-based suggestions (Brand Awareness vs. Interaction).
 - [ ] Phase 4: Multi-platform scheduling automation.
+- [ ] Phase 5: Extending to sort-of reverse engineer social media platform algorithms. (Note: This should be iterative and should be stable enough) 
 
 ## Notes
 - This is a living document. Will be adding more details on-the-fly.
