@@ -12,10 +12,10 @@ trendy-AI is an open-source AI Content Manager that helps budding creators optim
 
 ## 🛠️ Tech Stack
 
-* **LLM Engine:** (e.g., Gemini Flash)
-* **Vector Database:** (e.g., Pinecone, Weaviate, or ChromaDB) for RAG.
+* **LLM Engine:** (e.g., Gemini Flash Lite - need to migrate if getting traction)
+* **Vector Database:** (e.g., Pinecone, Weaviate, or ChromaDB) for RAG. (We might need to check if we require this now after pivoting to Agentic flow)
 * **Backend:** Python
-* **Data Processing:** LangChain or LlamaIndex
+* **Data Processing:** LangChain or LlamaIndex (CrewAI for Agentic flow)
 
 ## 📈 Use Cases
 
